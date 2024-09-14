@@ -12,7 +12,7 @@ To see project's full analysis report [Click here](https://github.com/PrateekSha
 
 ## Data Source
 The data used in this project was sourced from Kaggle's open data for Flipkart product reviews.
-[click here to view/download Raw data used](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/sentiment_and_trends_data/raw_review_sentiment_dataset/raw_review_sentiment_dataset.csv)
+[click here to view/download Raw dataset used](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/sentiment_and_trends_data/raw_review_sentiment_dataset/raw_review_sentiment_dataset.csv)
 
 ## Tools Used
 * GoogleSheets for data organization, preparation and cleaning.
@@ -25,6 +25,7 @@ The data used in this project was sourced from Kaggle's open data for Flipkart p
 * **Duplicate Removal:** Removed 34,319 duplicates, leaving 170,279 rows for analysis.
 * **Sentiment Conversion:** Converted sentiments into numerical values (Positive = 1, Neutral = 0, Negative = -1).
 * **Data Validation:** Final checks ensured consistent data formatting.
+[Click here to view/download cleaned dataset](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/sentiment_and_trends_data/cleaned_review_sentiment_dataset/cleaned_review_sentiment_dataset.csv)
 
 ## Data Analysis
 [Click here to see complete data anlysis R code](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/data%20analysis%20R%20code/complete%20data%20analysis%20R%20code%20(1).R)
