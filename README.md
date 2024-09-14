@@ -1,4 +1,4 @@
-#Customer Sentiment And Trend Analysis For Flipkart
+# Customer Sentiment And Trend Analysis For Flipkart
 ##Project Objective
 In this project, data analysis reveals customer sentiment towards various products and examines how product range influences customer behavior and satisfaction.
 
