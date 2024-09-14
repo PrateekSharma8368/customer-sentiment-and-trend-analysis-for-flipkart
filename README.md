@@ -44,12 +44,12 @@ Data analysis was conducted in RStudio using libraries such as **ggplot2**, **dp
 
 This analysis provided comprehensive insights into how product pricing, ratings, and customer sentiment interact, offering Flipkart valuable direction for improving customer experience and product offerings.
 
-**Key Takeaways**
+## Key Takeaways
 1. **Positive Sentiment:** Most reviews reflect customer satisfaction.
 2. **Affordable Pricing:** Flipkart’s offerings cater to budget-conscious consumers, with higher-priced items still well-received.
 3. **Improvement Areas:** Focus needed on low-rated products and high-priced items with negative feedback.
 
-**Top 3 Recommendations**
+## Top 3 Recommendations
 1. **Improve Product Quality for High-Priced Items:** Focus on enhancing quality control to reduce dissatisfaction.
 2. **Address Low-Rated Products:** Improve customer service and product quality for low-rated items.
 3. **Leverage Positive Reviews:** Use customer testimonials in marketing campaigns to highlight satisfaction and trustworthiness.
