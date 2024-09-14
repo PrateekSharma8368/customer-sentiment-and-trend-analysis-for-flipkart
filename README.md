@@ -2,6 +2,9 @@
 ## Project Objective
 In this project, data analysis reveals customer sentiment towards various products and examines how product range influences customer behavior and satisfaction.
 
+## Complete Analysis Report
+To see project's full analysis report [Click here](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/complete%20report%20of%20customer%20sentiment%20and%20trends%20analysis%20for%20flipkart/complete%20report%20of%20customer%20sentiment%20and%20trends%20analysis%20for%20flipkart.pdf)
+
 ## Key Objectives
 * Analyze customer sentiment (positive, negative, neutral) across different products.
 * Identify trends in customer ratings and their relationship with product prices.
