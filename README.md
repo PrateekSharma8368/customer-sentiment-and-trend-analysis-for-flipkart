@@ -12,6 +12,7 @@ To see project's full analysis report [Click here](https://github.com/PrateekSha
 
 ## Data Source
 The data used in this project was sourced from Kaggle's open data for Flipkart product reviews.
+[click here to view/download Raw data used](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/sentiment_and_trends_data/raw_review_sentiment_dataset/raw_review_sentiment_dataset.csv)
 
 ## Tools Used
 * GoogleSheets for data organization, preparation and cleaning.
@@ -26,6 +27,7 @@ The data used in this project was sourced from Kaggle's open data for Flipkart p
 * **Data Validation:** Final checks ensured consistent data formatting.
 
 ## Data Analysis
+[Click here to see complete data anlysis R code](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/data%20analysis%20R%20code/complete%20data%20analysis%20R%20code%20(1).R)
 Data analysis was conducted in RStudio using libraries such as **ggplot2**, **dplyr**, **tidyr**, and **tm**. The analysis focused on uncovering relationships between product prices, customer ratings, and sentiment. The following key insights were derived:
 
 * **Correlation Analysis:**
@@ -35,7 +37,7 @@ Data analysis was conducted in RStudio using libraries such as **ggplot2**, **dp
   * **Product Price vs. Sentiment:** A minimal correlation (0.049) was found, suggesting that price has little influence on customer sentiment.
     
 * **Visual Explorations:**
-
+[Click here to see dashboard](https://github.com/PrateekSharma8368/customer-sentiment-and-trend-analysis-for-flipkart/blob/main/data%20visuals%20dashboard/Dashboard%201%20(1).png)
   * **Histogram of Product Prices:** Most products were priced below ₹10,000, with fewer high-priced items, reflecting Flipkart's focus on affordable offerings.
   * **Bar Plot of Ratings:** The majority of products received high ratings, with a notable concentration of 5-star reviews. However, there was still a significant portion of 1-star to 3-star reviews, indicating room for improvement.
   * **Pie Chart of Sentiments:** Positive sentiment dominated the reviews, but negative and neutral sentiments were also present, providing insight into areas that may need attention.
